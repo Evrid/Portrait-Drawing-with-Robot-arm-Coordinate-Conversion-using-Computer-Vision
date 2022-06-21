@@ -1,5 +1,8 @@
+You can watch the steps at
+https://www.youtube.com/watch?v=k4gOBWY9oB4
+
 ## Required Products
-* MATLAB R2017b or later
+* MATLAB R2022a or later
 * Image Processing Toolbox
 * Computer Vision System Toolbox
 * Statistics and Machine Learning Toolbox
@@ -17,3 +20,9 @@ then open HandlingPro, right click on Targets, "import point data", select the c
 then right click "Target Groups", click "add target group", select the one we created then right click "edit target group"
 then we import all targets, in "Motion Line Data", deselect both approach and retreat, then click generate TP file, then export the TP to our drive
 then load to the robot arm.
+
+Inspired by:
+Using Targets in Roboguide to Visualize Path Planning of a FANUC Robot
+https://sites.asee.org/edgd/wp-content/uploads/sites/22/2017/12/Part25-Li.pdf
+Parts code from:
+Tohru Kikawada (2022). Portrait Drawing using Computer Vision and Robot Manipulator (https://www.mathworks.com/matlabcentral/fileexchange/67926-portrait-drawing-using-computer-vision-and-robot-manipulator), MATLAB Central File Exchange. Retrieved June 20, 2022.
