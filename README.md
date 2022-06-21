@@ -1,0 +1,19 @@
+## Required Products
+* MATLAB R2017b or later
+* Image Processing Toolbox
+* Computer Vision System Toolbox
+* Statistics and Machine Learning Toolbox
+* Robotics System Toolbox
+
+%First download the folder, put the image we want process inside
+there, then create a test.csv file (by create test.txt first then change test.txt to test.csv) 
+then we enter the origion (by go to the center of the paper then write down the x and y value) and ScaleValue and LiftPenHeight we want, 
+then it ask us to ask us to select a file, we change file type to ALL FILES and select a
+image located within the same folder of the MATLAB program, then the
+output will go to test.csv
+
+For Fanuc robot:
+then open HandlingPro, right click on Targets, "import point data", select the csv we have
+then right click "Target Groups", click "add target group", select the one we created then right click "edit target group"
+then we import all targets, in "Motion Line Data", deselect both approach and retreat, then click generate TP file, then export the TP to our drive
+then load to the robot arm.
