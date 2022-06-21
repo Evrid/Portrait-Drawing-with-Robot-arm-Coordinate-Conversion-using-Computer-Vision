@@ -9,7 +9,7 @@ https://www.youtube.com/watch?v=k4gOBWY9oB4
 * Robotics System Toolbox
 
 %First download the folder, put the image we want process inside
-there, then create a test.csv file (by create test.txt first then change test.txt to test.csv) 
+there, then create a test.csv file (by create test.txt first then change test.txt to test.csv), then click open calculateFinalUpload.m
 then we enter the origion (by go to the center of the paper then write down the x and y value) and ScaleValue and LiftPenHeight we want, 
 then it ask us to ask us to select a file, we change file type to ALL FILES and select a
 image located within the same folder of the MATLAB program, then the
