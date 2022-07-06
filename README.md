@@ -1,5 +1,5 @@
-You can watch the steps at
-https://www.youtube.com/watch?v=k4gOBWY9oB4
+You can watch the result at
+https://www.youtube.com/watch?v=KDQSH_u8n48
 
 ## Required Products
 * MATLAB R2022a or later
@@ -26,3 +26,6 @@ Using Targets in Roboguide to Visualize Path Planning of a FANUC Robot
 https://sites.asee.org/edgd/wp-content/uploads/sites/22/2017/12/Part25-Li.pdf
 Parts code from:
 Tohru Kikawada (2022). Portrait Drawing using Computer Vision and Robot Manipulator (https://www.mathworks.com/matlabcentral/fileexchange/67926-portrait-drawing-using-computer-vision-and-robot-manipulator), MATLAB Central File Exchange. Retrieved June 20, 2022.
+
+you can see the steps at
+https://www.youtube.com/watch?v=k4gOBWY9oB4
