@@ -1,6 +1,9 @@
 You can watch the result at
 https://www.youtube.com/watch?v=KDQSH_u8n48
 
+You can see the project detail at: 
+https://wordpress.com/post/evrid.wordpress.com/24
+
 ## Required Products
 * MATLAB R2022a or later
 * Image Processing Toolbox
